@@ -1,14 +1,22 @@
-# digital_humanities_RKI
-## head2
+# digital_humanities_RKI Проект "Конёк-горбунок:Ершов vs Пушкин"
+## 
 
-*italic*
+
+[Ссылка на отчёт]()
+
+
+**
 **bold**
 
+Список источников
 1. f
 2. s
 3 th
 4. f
 
-[text](http://rupoem.ru/batyushkov/all.aspx#gusar-na-sablyu)
+
+
+
+Рабочая группа проекта: Часовских А. - работа в R-Studio, Глухова Мария и Юлия Яковлева Ольга Осиновская поиск текстов, составление таблиц с источниками, Люда Лучкова работа в репрозории.
 
 ![GitHub Logo](https://www.hse.ru/images/main_en/hse_ru_logo.svg)
