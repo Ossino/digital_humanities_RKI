@@ -6,11 +6,8 @@
 ![GitHub Logo](https://pp.userapi.com/c845523/v845523951/24607/3V2SWQlm4Y8.jpg)
 ![GitHub Logo](https://pp.userapi.com/c845523/v845523951/24610/TOQApi-8jzg.jpg)
 ![GitHub Logo](https://pp.userapi.com/c845523/v845523951/24619/fdxk_h3m28A.jpg)
+![GitHub Logo](https://pp.userapi.com/c845523/v845523951/24622/TgomyqBqzz8.jpg)
 
-
-
-**
-**bold**
 
 *Список источников*
 1. [П. Ершов Конек Горбунок](https://solnet.ee/skazki/777)
