@@ -12,25 +12,20 @@
 *Список источников*
 1. [П. Ершов Конек Горбунок](https://solnet.ee/skazki/777)
 2. [П. Ершов Cибирский казак](http://libverse.ru/yershov/sibirskii-kazak.html)
-[Сибирский казак] (http://libverse.ru/yershov/sibirskii-kazak.html)
-3.[Сузге] (http://libverse.ru/yershov/syzge.html)
-4.	[Осенние вечера] (http://az.lib.ru/e/ershow_p_p/text_1856_osennie_vechera.shtml)
+3. [Сузге](http://libverse.ru/yershov/syzge.html)
+4. [Осенние вечера] (http://az.lib.ru/e/ershow_p_p/text_1856_osennie_vechera.shtml)
 5.	[Избранные стихотворения] (http://az.lib.ru/e/ershow_p_p/text_0050.shtml)
 
 
 
 
-В.А. Жуковский
-1.	Война мышей и лягушек
-http://lib.ru/LITRA/ZHUKOWSKIJ/mouse.txt
-2.	Сказка о царе берендее, о сыне его иване-царевиче, о хитростях кощея бессмертного и о премудрости марьи-царевны, кощеевой дочери
-http://rvb.ru/19vek/zhukovsky/01text/vol3/02tales/300.htm
-
-3.	Кот в сапогах
-http://rvb.ru/19vek/zhukovsky/01text/vol3/02tales/303.htm
-
-4.	Сказка о Иване-Царевиче и сером волке
-http://az.lib.ru/e/ershow_p_p/text_0050.shtml
+[В.А. Жуковский]
+[1.	Война мышей и лягушек] (http://lib.ru/LITRA/ZHUKOWSKIJ/mouse.txt)
+[2.	Сказка о царе берендее, о сыне его иване-царевиче, о хитростях кощея бессмертного и о премудрости марьи-царевны, кощеевой дочери] (http://rvb.ru/19vek/zhukovsky/01text/vol3/02tales/300.htm)
+[3.	Кот в сапогах]
+(http://rvb.ru/19vek/zhukovsky/01text/vol3/02tales/303.htm)
+[4.	Сказка о Иване-Царевиче и сером волке]
+(http://az.lib.ru/e/ershow_p_p/text_0050.shtml)
 
 5.	Спящая царевна
 http://rvb.ru/19vek/zhukovsky/01text/vol3/02tales/301.htm
